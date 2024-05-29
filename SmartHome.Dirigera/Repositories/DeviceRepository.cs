@@ -1,8 +1,4 @@
-﻿using System.Collections;
-using System.Diagnostics.CodeAnalysis;
-using System.Net.Http.Headers;
-using System.Net.Http.Json;
-using Flurl;
+﻿using System.Diagnostics.CodeAnalysis;
 using Flurl.Http;
 using Flurl.Http.Configuration;
 using SmartHome.Dirigera.Models;

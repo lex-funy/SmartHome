@@ -12,6 +12,7 @@ public static class DirigeraDependencies
     {
         // Repositories
         services.AddSingleton<IDeviceRepository, DeviceRepository>();
+        services.AddSingleton<ILightRepository, LightRepository>();
 
         var baseUrl =
             Environment.GetEnvironmentVariable("Dirigera__BaseUrl") ??

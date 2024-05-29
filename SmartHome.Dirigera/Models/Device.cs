@@ -1,6 +1,4 @@
-﻿using System.Text.Json.Serialization;
-
-namespace SmartHome.Dirigera.Models;
+﻿namespace SmartHome.Dirigera.Models;
 
 public class Device
 {
