@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartHome.Api", "SmartHome.Api\SmartHome.Api.csproj", "{E5F76D93-BF64-4D63-AF6B-24E18CE0703A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartHome.Dirigera", "SmartHome.Dirigera\SmartHome.Dirigera.csproj", "{FF16352C-D7BC-4F24-B920-0D6D482D7E34}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartHome.Dirigera.Tests", "SmartHome.Dirigera.Tests\SmartHome.Dirigera.Tests.csproj", "{CAA2CC82-4210-4748-8B84-3C154F3F3162}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartHome.Api.Tests", "SmartHome.Api.Tests\SmartHome.Api.Tests.csproj", "{3DB81B65-9B65-4A7F-A70A-43E9FEF1EEF8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E5F76D93-BF64-4D63-AF6B-24E18CE0703A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5F76D93-BF64-4D63-AF6B-24E18CE0703A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5F76D93-BF64-4D63-AF6B-24E18CE0703A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5F76D93-BF64-4D63-AF6B-24E18CE0703A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF16352C-D7BC-4F24-B920-0D6D482D7E34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF16352C-D7BC-4F24-B920-0D6D482D7E34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF16352C-D7BC-4F24-B920-0D6D482D7E34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF16352C-D7BC-4F24-B920-0D6D482D7E34}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CAA2CC82-4210-4748-8B84-3C154F3F3162}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAA2CC82-4210-4748-8B84-3C154F3F3162}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAA2CC82-4210-4748-8B84-3C154F3F3162}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAA2CC82-4210-4748-8B84-3C154F3F3162}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DB81B65-9B65-4A7F-A70A-43E9FEF1EEF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DB81B65-9B65-4A7F-A70A-43E9FEF1EEF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DB81B65-9B65-4A7F-A70A-43E9FEF1EEF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DB81B65-9B65-4A7F-A70A-43E9FEF1EEF8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
